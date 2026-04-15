@@ -15,4 +15,4 @@ AI should not replace humans but I see every reason to let it write smut and sim
 
 ## Links (for funsies)
 
-https://scproleplay.fandom.com/wiki/Internal_Security_Department
+[Internal Security Department](https://scproleplay.fandom.com/wiki/Internal_Security_Department)
