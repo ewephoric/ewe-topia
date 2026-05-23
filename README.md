@@ -26,6 +26,6 @@ AI should not replace humans but I see every reason to let it write smut and sim
 
 [Bendy and the Dark Revival](https://bendy.fandom.com/wiki/Bendy_and_the_Dark_Revival)
 
-[https://freddy-fazbears-pizza.fandom.com/wiki/Charlotte_Emily](https://freddy-fazbears-pizza.fandom.com/wiki/Charlotte_Emily)
+[Charlotte Emily](https://freddy-fazbears-pizza.fandom.com/wiki/Charlotte_Emily)
 
 [NoDCI](https://fnaftheories.fandom.com/wiki/NoDCI)
