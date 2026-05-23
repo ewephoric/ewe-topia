@@ -4,4 +4,5 @@ NoDCI is the theory that the "SAVE THEM" murders in Five Night's at Freddy's 2, 
 
 ## Evidence
 
-The "Freddy Fazbear's is Closing" newspaper at the end of FNaF 2 never mentions anything about dead children.
+- The "Freddy Fazbear's is Closing" newspaper at the end of FNaF 2 never mentions anything about dead children.
+  - The Bite of 87' is not brought up either.
