@@ -12,6 +12,7 @@ AI should not replace humans but I see every reason to let it write smut and sim
 - Wear a shirt
 - Gender is a social construct
 - don't look old
+- Take daily showers
 
 ## Links (for funsies)
 
