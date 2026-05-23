@@ -1,12 +1,12 @@
-# Super Traditional Read Me 🐑
+# Welcome to Ewetopia! (a Super Traditional Read Me) 🐑
 
-I hate perfectionism
+**Ewetopia** is the product of perfectionism, which I hate. It turns iterative development into reiterative development. So, I guess this is the legacy I've chosen for myself, huh? At least it's *ewe-nique*.
 
-We will be building the most jiggle physics known to man
+We will be building the most jiggle physics known to man.
 
-AI should not replace humans but I see every reason to let it write smut and simulate characters privately. If the whole point of this is that its just for me to see, why have i spent so many months deleting it because its "not good enough". for who? me? Yeah. Thats. Right. Thats who
+AI should not replace humans but I see every reason to let it write smut and simulate characters privately. If the whole point of this is that its just for me to see, why have i spent so many months deleting it because its "not good enough". for who? me? Yeah. Thats. Right. That's who.
 
-## Rules i guess
+## Rules (i guess)
 
 - Do not delete
 - Wear a shirt
