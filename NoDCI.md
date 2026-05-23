@@ -6,3 +6,4 @@ NoDCI is the theory that the "SAVE THEM" murders in Five Night's at Freddy's 2, 
 
 - The "Freddy Fazbear's is Closing" newspaper at the end of FNaF 2 never mentions anything about dead children.
   - The Bite of 87' is not brought up either.
+- The DCI seemingly aren't brought up or mentioned again after FNaF 2. Given how much respect and delicacy Scott puts on William's victims, as well as the themes of the series in general, it would be unlikely for him to neglect a whole set of victims and leave them without a proper conclusion.
