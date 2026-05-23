@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/ewephoric/ewe-topia/refs/heads/main/output.webp" width="400" alt="demo">
 </p>
 
-**Ewetopia** is the product of perfectionism, which I <span style="color: red  ;">hate </span>. It turns iterative development into reiterative development. So, I guess this is the legacy I've chosen for myself, huh? At least it's *ewe-nique*.
+**Ewetopia** is the product of perfectionism, which I <span style="color: red;">hate</span>. It turns iterative development into reiterative development. So, I guess this is the legacy I've chosen for myself, huh? At least it's *ewe-nique*.
 
 We will be building the most jiggle physics known to man.
 
