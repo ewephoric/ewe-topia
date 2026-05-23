@@ -18,4 +18,6 @@ AI should not replace humans but I see every reason to let it write smut and sim
 
 [Beelzebub](https://hazbinhotel.fandom.com/wiki/Beelzebub)
 
+[Loona](https://hazbinhotel.fandom.com/wiki/Loona)
+
 [Internal Security Department](https://scproleplay.fandom.com/wiki/Internal_Security_Department)
