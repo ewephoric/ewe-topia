@@ -1,5 +1,7 @@
 # Welcome to Ewetopia! (a Super Traditional Read Me) 🐑
 
+![demo](https://raw.githubusercontent.com/ewephoric/ewe-topia/refs/heads/main/output.webp)
+
 **Ewetopia** is the product of perfectionism, which I hate. It turns iterative development into reiterative development. So, I guess this is the legacy I've chosen for myself, huh? At least it's *ewe-nique*.
 
 We will be building the most jiggle physics known to man.
