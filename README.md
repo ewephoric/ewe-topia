@@ -1,4 +1,4 @@
-# Welcome to Ewetopia! (a Super-Traditional Read Me) 🐑
+# Wool-come to Ewetopia! (a Super-Traditional Read Me) 🐑
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ewephoric/ewe-topia/refs/heads/main/output.webp" width="400" alt="demo">
